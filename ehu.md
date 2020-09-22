@@ -1,1 +1,0 @@
-önder abi sa
