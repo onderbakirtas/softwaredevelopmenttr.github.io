@@ -38,7 +38,7 @@ Uyarı: Projeyi her güncellemeden önce,
 ![GithubFeed](githubFeed.png)
 Sunucumuzda bulunan #github-feed kanalından son yapılan değişiklikleri gözlemleyebilir, belirlediğimiz saatlerde sesli odalarda bizimle beraber geliştirmelere dahil olabilirsin.
 
-## **Siteye Kodlamayı Yeni Öğrenen Kişiler Katılabilir Mi?**
+## **Site Geliştirmesine, Kodlamayı Yeni Öğrenen Kişiler Katılabilir Mi?**
 Kodlar okunabilir ve temiz olduğu sürece herkes sitemizin yapımında katkı sağlayabilir.
 
 *Temiz ve Verimli Kodlamalar Dileriz!* \
